@@ -9,6 +9,8 @@
 ## 安装下载
 
 - 下载地址 https://github.com/Alaus/fast-cache/releases
+- 'npm i fast-cache-alaus'
+- CDN http://unpkg.com/fast-cache-alaus/release/bundle.js
 
 ## 快速使用
 
